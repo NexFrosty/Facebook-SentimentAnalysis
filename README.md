@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-By extracting and analyzing sentiments, the project seeks to understand user satisfaction and highlight areas for enhancement in Facebook's services.
+This project develops a sentiment analysis system for Facebook app reviews to filter out emojis and bot-generated content for more accurate user feedback. This refined feedback assists in enhancing the app's relevance and user satisfaction.
 
 ## Problem Statement
 
-Facebook accumulates a multitude of user reviews, which include genuine feedback, bot-generated texts, and emoji reactions. Accurately analyzing these reviews is challenging due to the presence of inauthentic sentiments and unconventional expressions.
+Facebook accumulates many user reviews, including genuine feedback, bot-generated texts, and emoji reactions. Accurately analyzing these reviews is challenging due to inauthentic sentiments and unconventional expressions.
 
 ## Objectives
 
